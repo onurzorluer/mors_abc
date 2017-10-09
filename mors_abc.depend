@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1469628445 source:c:\users\toshiba-pc\desktop\mors_abc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1469624878 source:d:\c-projects\mors_abc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
